@@ -1,0 +1,13 @@
+Hi this is my todo file
+1. Learn Linux
+2. Learn SQL
+3. Learn Python
+4. Repeat
+
+Also dont forget to sleepppp
+
+Production branch created 
+Pyhton 
+Jenkins
+Kubernetes
+C++
